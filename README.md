@@ -1,4 +1,4 @@
-Calculator
+                                                                              Calculator
              This is a simple calculator application built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division. Users can input numbers using both the calculator buttons and the keyboard.
 
 Features :
@@ -25,11 +25,9 @@ Click on the equals (=) button or press the Enter key to perform the calculation
 The result will be displayed in the calculator's display area.
 
 Keyboard Input :
-
-         The following keyboard keys can be used to input numbers:
-
-Digits 0-9: Use the corresponding keys on the keyboard to input numbers.
-Decimal Point ("."): Use the period key (.) to input decimal numbers.
+     The following keyboard keys can be used to input numbers:
+               Digits 0-9: Use the corresponding keys on the keyboard to input numbers.
+               Decimal Point ("."): Use the period key (.) to input decimal numbers.
 
 Number Validation :
 
